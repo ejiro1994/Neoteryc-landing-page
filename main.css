@@ -43,7 +43,9 @@ html, body {
     }
 
     .right-col {
-        display: none;
+        top: 100%;
+        width: 100%;
+        left: 0%;
     }
 }
 
