@@ -86,7 +86,7 @@ html, body {
     margin: 1.4em;
 }
 
-..cover {
+.cover {
     position: absolute;
     top: 36%;
     left: 50%;
