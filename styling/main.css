@@ -43,6 +43,7 @@ html, body {
     }
 
     .right-col {
+        display:none;
         top: 100%;
         width: 100%;
         left: 0%;
@@ -56,6 +57,11 @@ html, body {
     margin: 1.4em;
     font-weight: bolder;
     letter-spacing: 10px;
+}
+
+.logo1 {
+    background: url(/logo.png);
+    height: 100%;
 }
 
 .year {
