@@ -86,16 +86,16 @@ html, body {
     margin: 1.4em;
 }
 
-.cover {
+..cover {
     position: absolute;
-    top: 50%;
+    top: 36%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 40%;
-    height: 30%;
+    width: 80%;
+    height: 20%;
     background: url(/Neoteryc-landing-page/album-art.jpg) no-repeat 50% 50%;
     background-size: cover;
-} 
+}
 
 .data {
     position: absolute;
